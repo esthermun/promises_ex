@@ -1,0 +1,40 @@
+.profile-tile {
+  background-color: #eee;
+  padding: 20px;
+  width: 350px;
+  margin: 20px auto;
+}
+
+.avatar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.fav-color {
+  margin: auto;
+  width: 50px;
+  height: 50px;
+}
+.myForm {
+  
+}
+.myLoginForm {
+  margin-top: 100px;
+  background-color: #5A2C2C;
+  color: #fff;
+  padding: 50px;
+  -webkit-box-shadow: -7px 7px 15px 0px rgba(84,40,84,0.96);
+  -moz-box-shadow: -7px 7px 15px 0px rgba(84,40,84,0.96);
+  box-shadow: -7px 7px 15px 0px rgba(84,40,84,0.96);
+}
+.text-center {
+  margin-top: 40px;
+}
+.btnRow {
+  margin-top: 20px;
+}
+.btnRow .btn-primary{
+  background-color: #1AA07C;
+  border-color: #155F4B;
+}
